@@ -1,11 +1,14 @@
-# Solarized Light (Custom)
+# Solarized Light (Web)
 Custom solarized theme for [Visual Studio Code](https://code.visualstudio.com),
 optimized for JavaScript, CSS, HTML, Java and JSON, with light support for PHP, but maybe
 some other languages work too.
 
-*Please let me know any suggestions, requests or issues in Github*
+Forked from [vscode-solarized-custom](https://github.com/bbrakenhoff/vscode-solarized-custom) to keep the bold keywords
 
-<div style="color: #dc322f; font-weight:bold; font-size: 2rem"> In version 3.0.0 I renamed the themes, meaning that you have to update your settings by selecting the theme again </div>
+### Usage
+
+- `vsce package`
+- `code --install-extension solarized-light-web-*`
 
 ### Screenshots
 
